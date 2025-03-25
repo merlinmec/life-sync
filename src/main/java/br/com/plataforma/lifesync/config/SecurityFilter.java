@@ -1,4 +1,4 @@
-package br.com.plataforma.lifesync.infra.security;
+package br.com.plataforma.lifesync.config;
 
 import br.com.plataforma.lifesync.repository.UserRepository;
 import br.com.plataforma.lifesync.service.TokenService;

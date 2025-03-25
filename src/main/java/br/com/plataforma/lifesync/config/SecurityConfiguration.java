@@ -1,4 +1,4 @@
-package br.com.plataforma.lifesync.infra.security;
+package br.com.plataforma.lifesync.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
